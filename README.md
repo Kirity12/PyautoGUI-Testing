@@ -30,18 +30,16 @@ installed in the system:
    `pip install pillow`
    `pip install opencv-python`
 
-We also installed pyperclip library to execute clipboard copy/paste actions in file: ~ pip install pyperclip
+We also installed pyperclip library to execute clipboard copy/paste actions in file: 
+   `pip install pyperclip`
 
 Go into the TestApp directory and run the python file test\_cases\_gui.py with the path of the
 application that is to be tested sent as an argument. For example:
 
-~ python test\_cases\_gui.py <complete absolute path of the
-application>
+      `python test\_cases\_gui.py <complete absolute path of the
+application>`
 
 Test Cases:
-
-
-
 
 <a name="br3"></a>A total of 12 test cases were developed to automate GUI testing:
 
@@ -49,7 +47,7 @@ Test Cases:
 
 be executed or not.
 
-2\. Check if the Main Page (First Page) of Application Opens: This test case verifies
+2\. Check if the Main Page (First Page) of the Application Opens: This test case verifies
  whether the main page of the application is opening or not.
 
 3\. Check if the Second page is visited from the First Page: This test case checks whether
@@ -129,7 +127,7 @@ and page 2.
 ○ Like AppV1 you have 2 options or radio buttons to select file download format.
 ○ Like AppV1 all share the same images present across applications.
 
-` `Both the applications are created and developed using the Tkinter web framework library
+Both the applications are created and developed using the Tkinter web framework library
 in python and then converted into executable files.
 
 Uncompress TestApp.zip file to extract testcases python file:
