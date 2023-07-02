@@ -27,9 +27,8 @@ To install PyAutoGUI, on command prompt pip install the library: ~ pip install P
 PyAutoGUI library is dependent on Opencv library and thus ensure user has opencv library
 installed in the system:
 
-~ pip install pillow
-
-~ pip install opencv-python
+   `pip install pillow`
+   `pip install opencv-python`
 
 We also installed pyperclip library to execute clipboard copy/paste actions in file: ~ pip install pyperclip
 
